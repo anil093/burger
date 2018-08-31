@@ -8,9 +8,9 @@ var path = require('path');
 var app = express();
 
 // Specifying the port for heroku, otherwise its port 8080
-// var PORT = process.env.PORT || 8080;
+var PORT = process.env.PORT || 8080;
 
-var PORT = 3000;
+
 
 // Set default directory to public
 app.use(express.static("public"));
