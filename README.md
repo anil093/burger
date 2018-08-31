@@ -11,7 +11,7 @@ Make sure your local server is live
 Run node server.js in the command line while in the appropriate directory
 
 <h2>Technologies used</h2>
-Node.js
+<ul>Node.js
 MySQL
 body-parser NPM Package - https://www.npmjs.com/package/body-parser
 express NPM Package - https://www.npmjs.com/package/express
@@ -19,6 +19,7 @@ mysql NPM Package - https://www.npmjs.com/package/mysql
 express-handlbars NPM Package - https://www.npmjs.com/package/express-handlebars
 Prerequisites
 Must install node packages: mysql, express, body-parser...
+  </ul>
 
 npm i
 - Node.js - Download the latest version of Node https://nodejs.org/en/
